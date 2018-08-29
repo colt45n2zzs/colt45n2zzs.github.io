@@ -14,7 +14,7 @@
         }
 
 .toplist {position: absolute;
-          right: 21%;
+          right: 18.5%;
           top: 35%;
           margin: auto;
           display: inline; 
@@ -52,7 +52,7 @@
        position: absolute;
        bottom: 0;
        top: 0;
-       left: 17%;
+       left: 19.5%;
        text-align: center;
        font-size: 24px;
        
@@ -91,6 +91,7 @@ body {background-image: url(../images/what-the-hex.png);
        position: absolute;
        top: 15%;
        right: 20%;
+       left: 20%;
        border: 1px;
        border-style: solid;
        border-color: #777777;
@@ -116,6 +117,7 @@ body {background-image: url(../images/what-the-hex.png);
        position: absolute;
        top: 15%;
        right: 20%;
+       left: 20%;
        border: 1px;
        border-style: solid;
        border-color: #777777;
@@ -135,6 +137,7 @@ body {background-image: url(../images/what-the-hex.png);
        position: absolute;
        top: 15%;
        right: 20%;
+       left: 20%;
        border: 1px;
        border-style: solid;
        border-color: #777777;
