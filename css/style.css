@@ -1,0 +1,306 @@
+
+
+.header {background-color:#ffffff;
+         font-family: 'Georgia', Times, Times New Roman, serif;
+         display: block;
+         height: 70px;
+         width: 100%;
+         position: fixed;
+         top: 0;
+         border-bottom: 1px;
+         border-bottom-style: solid;
+         border-bottom-color: #777777;
+
+        }
+
+.toplist {position: absolute;
+          left: 68%;
+          top: 30%;
+          margin: auto;
+          display: inline;   
+        
+        }
+          
+#about1 { border-right: 1px;
+          border-right-style: solid;
+          border-right-color: #777777;
+          padding-right: 3px;
+          text-decoration: none;
+
+        }
+
+#portfolio {border-right: 1px;
+            border-right-style: solid;
+            border-right-color: #777777;
+            padding-right: 3px;
+            text-decoration: none;
+
+        }
+
+#contact {text-decoration: none;
+
+        }  
+
+.name {color: #ffffff;
+       background-color: #4aaaa5;
+       width: 150px;
+       height: 70px;
+       position: absolute;
+       bottom: 0;
+       top: 0;
+       right: 1128px;
+       text-align: center;
+       font-size: 24px;
+       
+       }
+
+body {background-image: url(../images/what-the-hex.png);
+      color: #777777;
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+       }
+
+#about {color:#4aaaa5;
+        float: left;
+        margin: 10px;
+        font-size: 20px;
+        padding-top: 20px; 
+        margin-left: 30px;
+        font-size: 27px;
+      
+        }
+
+#profile {float: left;
+          margin: 10px;
+          
+        }
+
+#p1 { text-align: left;
+
+        }
+
+#box1 {height: 480px;
+       width: 960px;
+       background-color: #ffffff;
+       text-align: center;
+       margin: auto;
+       position: absolute;
+       top: 15%;
+       right: 20%;
+       border: 1px;
+       border-style: solid;
+       border-color: #777777;
+
+        }
+
+.box1contents {position: absolute;
+               right: 30px;
+               top: 70px;
+               border-top: 1px;
+               border-top-style: solid;
+               border-top-color: #777777;
+               margin-left: 30px;
+               padding-top: 30px;
+
+        }
+
+.box2 {height: 480px;
+       width: 960px;
+       background-color: #ffffff;
+       text-align: left;
+       margin: auto;
+       position: absolute;
+       top: 15%;
+       right: 20%;
+       border: 1px;
+       border-style: solid;
+       border-color: #777777;
+
+        }
+
+.box2contents {display: inline-block;
+               width: 400px;
+
+        }
+
+#box3 {height: 500px;
+       width: 960px;
+       background-color: #ffffff;
+       text-align: left;
+       margin: auto;
+       position: absolute;
+       top: 15%;
+       right: 20%;
+       border: 1px;
+       border-style: solid;
+       border-color: #777777;
+    
+        }
+
+#contactheader {color: #4aaaa5;
+                position: absolute;
+                left: 30px;
+                top: 30px;
+                font-size: 27px;
+
+        }
+
+#form {position: absolute;
+       right: 30px;
+       Top: 70px;
+       border-top: 1px;
+       border-top-style: solid;
+       border-top-color: #777777;
+       width: 900px;
+
+        }
+
+.formtags {font-size: 18px;
+          display: inline-block;
+
+        }
+
+#submit {margin-top: 10px;
+         color: #ffffff;
+         background-color: #4aaaa5;
+         text-decoration: none;
+         padding: 10px;
+         position: absolute;
+         top: 99%;
+         width: 50px;
+         text-align: center;
+    
+        }
+
+#portfolioheader {color: #4aaaa5;
+                  position: absolute;
+                  left: 30px;
+                  top: 30px;
+                  font-size: 27px;
+
+        }
+
+#pheaderstyle {border-bottom: 1px;
+               border-bottom-style: solid;
+               border-bottom-color: #777777;
+               width: 900px;
+               position: absolute;
+               top: 70px;
+               left: 30px;
+
+        }                 
+
+#ph1 {position: absolute;
+      top: 100px;
+      right: 100px;
+
+        }
+
+#ph2 {position: absolute;
+      top: 100px;
+      right: 400px;
+
+        }
+
+#ph3 {position: absolute;
+      top: 100px;
+      right: 700px;
+
+        }
+
+#ph4 {position: absolute;
+      top: 300px;
+      right: 700px;
+
+        }
+
+#ph5 {position: absolute;
+      top: 300px;
+      right: 400px;
+
+        }
+
+#th1 {text-decoration: none;
+      color: #ffffff;
+      background-color: #4aaaa5;
+      padding: 10px;
+      z-index: 10;
+      position: absolute;
+      top: 192px;
+      right: 700px;
+      width: 160px;
+      text-align: center;
+
+        }
+
+#th2 {text-decoration: none;
+      color: #ffffff;
+      background-color: #4aaaa5;
+      padding: 10px;
+      z-index: 10;
+      position: absolute;
+      top: 192px;
+      right: 400px;
+      width: 160px;
+      text-align: center;
+
+        }
+
+#th3 {text-decoration: none;
+      color: #ffffff;
+      background-color: #4aaaa5;
+      padding: 10px;
+      z-index: 10;
+      position: absolute;
+      top: 192px;
+      right: 100px;
+      width: 160;
+      text-align: center;
+
+        }
+
+#th4 {text-decoration: none;
+      color: #ffffff;
+      background-color: #4aaaa5;
+      padding: 10px;
+      z-index: 10;
+      position: absolute;
+      top: 392px;
+      right: 400px;
+      width: 160px;
+      text-align: center;
+
+        }
+
+#th5 {text-decoration: none;
+      color: #ffffff;
+      background-color: #4aaaa5;
+      padding: 10px;
+      z-index: 10;
+      position: absolute;
+      top: 392px;
+      right: 700px;
+      width: 160px;
+      text-align: center;
+
+        }
+input {width: 900px;
+
+        }
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    height: 50px;
+    border-top: 10px;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+
+        }
